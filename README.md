@@ -97,7 +97,8 @@ src/
 
 ---
 
-## 📄 License<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/26705f77-4fa8-4922-9b0f-3d2b3dfcb979" />
+## 📄 License<img width="1918" height<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/70ce020f-9af9-480b-855c-34b9c0ab2a1d" />
+="922" alt="image" src="https://github.com/user-attachments/assets/26705f77-4fa8-4922-9b0f-3d2b3dfcb979" />
 
 
 MIT
